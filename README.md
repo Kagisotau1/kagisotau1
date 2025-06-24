@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, Kagisotau1
 
-<!--
-**Kagisotau1/kagisotau1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Web Developer | Learning Python & JavaScript  
+Self-Taught Developer | Focused on Web Development  
+Learning Full-Stack Web Development | Python & JS Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Building my personal developer profile
+- Diving into Django and full-stack development
+
+### 🛠️ Tech Stack
+- 🌐 HTML, CSS, JavaScript
+- 🐍 Python (currently learning)
+- ⚙️ Django (in progress)
+
+---
+
+### 🚧 Projects
+- 💼 **FNB Academy App** – An educational project currently in development
+
+ ---
+ 
+### 🔗 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/kagiso-tauyatswala
+- 🌍 [Portfolio](https://kagisotau1.github.io)
+- 🐦 [Twitter](https://twitter.com/kagisotau1)
+- 📫 [Email](manyakwane@gmail.com)
